@@ -68,6 +68,8 @@
 - [ ] Practice answering potential investor questions.
 - [ ] Follow up after meetings with a summary and next steps.
 - [ ] 🛠️ [The Ultimate Investor List of Lists](https://lnkd.in/dNjM7mSF) - A curated list of potential investors.
+- [ ] 🛠️ [Bootstrapped vs Funding. Should Your Startup Raise Venture Capital](https://www.softformance.com/blog/bootstrapped-vs-funding-should-your-startup-raise-venture-capital-full-guide/) 
+
 
 ---
 
