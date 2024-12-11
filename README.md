@@ -110,6 +110,75 @@
 - **Funding:** SAFE note + $500k+ in credits  
 - **Deadline:** Rolling basis  
 
+
+## Overview
+Whether you’re launching or scaling, this is everything I wish I had from day one! Save this list to supercharge your startup journey.
+---
+
+## 💡 **Idea**
+
+1. [How to come up with startup ideas by Paul Graham](https://lnkd.in/d-eGmPxp)  
+2. [Requests for startups from Y Combinator for 2025](https://lnkd.in/dezSnhWN)  
+3. [How to generate and validate startup ideas from Founder Institute](https://lnkd.in/diytUziM)  
+4. [r/SomebodyMakeThis: crowdsourced hub for sharing startup ideas](https://lnkd.in/dAJidfPc)  
+5. [10 Proven Frameworks For Generating Startup Ideas](https://lnkd.in/dzJKHqKb)  
+
+---
+
+## 💰 **Fundraising**
+
+6. [Y Combinator Application Guide from YC alum](https://lnkd.in/dY8N6xpx)  
+7. [How to raise money by Paul Graham](https://lnkd.in/dpsPrWHh)  
+8. [Guide to seed fundraising from Y Combinator](https://lnkd.in/dCpWdNk3)  
+9. [Templates for founders: financial model, pitch deck, KPI, one-pager](https://lnkd.in/dEgUV7zk)  
+10. [How to raise your first round of funding by Founder Institute](https://lnkd.in/duyd_5ry)  
+11. [Seed Data Room Template by Creandum](https://lnkd.in/dQxar3xC)  
+12. [Personal Finance for Startup Founders](https://lnkd.in/dZA7RHZC)  
+
+---
+
+## 🔧 **Product**
+
+13. [Designing activation in reverse: value first, acquisition channels last](https://lnkd.in/dGAu65_d)  
+14. [Guide to Product Development by Michael Seibel](https://lnkd.in/dm6Pcjw7)  
+15. [Frameworks for product success from Sequoia](https://lnkd.in/d-EhNAK3)  
+16. [The Arc Product-Market Fit Framework](https://lnkd.in/dnTsr7VG)  
+17. [David Rusenko - How To Find Product Market Fit](https://lnkd.in/dEGDYQFw)  
+
+---
+
+## 🛒 **Sales**
+
+18. [How to sell by Tyler Bosmeny](https://lnkd.in/dAdSX5Nn)  
+19. [Market Annealing: getting to $10M ARR in very early markets](https://lnkd.in/dvAA9geN)  
+20. [The greatest sales deck I’ve ever seen](https://lnkd.in/dVAMccia)  
+21. [Big guide on selling for founders by Hubspot](https://lnkd.in/dexfm-qD)  
+22. [Everything a Founder needs to know about B2B sales](https://lnkd.in/deQ3udvZ)  
+
+---
+
+## 🌈 **Growth**
+
+23. [7-step blueprint to get your first 10,000 followers](https://lnkd.in/dnB-TucH)  
+24. [Email marketing guide from Backlinko](https://lnkd.in/d2aHJ6iW)  
+25. [How to go from 0 to $5M ARR profitably](https://lnkd.in/d_Yy6CSq)  
+26. [350 Places to post your product](https://lnkd.in/d2gj5sqv)  
+27. [SEO: Exact process to scale from 0 to 200k monthly traffic](https://lnkd.in/dCy-PQ8u)  
+28. [How to launch on Product Hunt: a guide to success](https://lnkd.in/dNKvdNpy)  
+29. [100 ideas to get your startup's first 100 users](https://lnkd.in/dydn8MA6)  
+
+---
+
+## 🎯 **Tools**
+
+30. [AI Idea Generator](https://lnkd.in/dhMynMdS)  
+31. [Recraft: Image generation and editing tool](https://www.recraft.ai/)  
+32. [Unicorn platform: website builder for startups](https://lnkd.in/dVTnQkQD)  
+33. [Cursor: write programs and code with AI](https://www.cursor.com/)  
+34. [Y Combinator tool to find co-founders](https://lnkd.in/dnFSvph7)
+
+
+
 ---
 
 Feel free to contribute or suggest changes to enhance the checklist further!
