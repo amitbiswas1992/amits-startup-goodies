@@ -75,40 +75,79 @@
 
 ### 🌟 Additional Opportunities: Accelerators
 
-#### [South Park Commons](https://lnkd.in/dg9YaPS8)
-- **Stage:** Pre-Idea  
-- **Funding:** $1M  
-- **Deadline:** 2 February 2025  
+# LinkedIn ReadMe Markdown
 
-#### [Antler Global](https://lnkd.in/d3S4DPKG)
-- **Stage:** Pre-Idea, Pre-Seed  
-- **Funding:** $250k for 9%  
-- **Deadline:** Rolling basis  
+## Overview
+Whether you’re launching or scaling, this is everything I wish I had from day one! Save this list to supercharge your startup journey.
 
-#### [HF0 Residency](https://www.hf0.com/)
-- **Stage:** Pre-Seed  
-- **Funding:** $500k uncapped + 3%  
-- **Deadline:** 14 November 2024  
+---
+
+## 💡 **Idea**
+
+1. [How to come up with startup ideas by Paul Graham](https://lnkd.in/d-eGmPxp)  
+2. [Requests for startups from Y Combinator for 2025](https://lnkd.in/dezSnhWN)  
+3. [How to generate and validate startup ideas from Founder Institute](https://lnkd.in/diytUziM)  
+4. [r/SomebodyMakeThis: crowdsourced hub for sharing startup ideas](https://lnkd.in/dAJidfPc)  
+5. [10 Proven Frameworks For Generating Startup Ideas](https://lnkd.in/dzJKHqKb)  
+
+---
+
+## 💰 **Fundraising**
+
+#### [Y Combinator Application Guide](https://lnkd.in/dY8N6xpx)
+- **Stage:** Seed
+- **Funding:** Varies
+- **Deadline:** Rolling basis
+
+#### [500 Global](https://lnkd.in/gYxxPXDT)
+- **Stage:** Seed
+- **Funding:** $150K for 6%
+- **Deadline:** Rolling basis
+
+#### [Boost VC](https://www.boost.vc/)
+- **Stage:** Pre-Seed, Seed
+- **Funding:** $500K for 15%
+- **Deadline:** Rolling basis
+
+#### [Seedcamp](https://lnkd.in/g6rWAjeA)
+- **Stage:** Seed
+- **Funding:** Up to £1M
+- **Deadline:** Rolling basis
 
 #### [Entrepreneur First](https://apply.joinef.com/)
-- **Stage:** No team  
-- **Funding:** $250k for ~9%  
-- **Deadline:** Varies by location  
+- **Stage:** Pre-Seed
+- **Funding:** $250K for 9%
+- **Deadline:** Rolling basis
 
-#### [Techstars](https://lnkd.in/dh-y6pRi)
-- **Stage:** Pre-Seed  
-- **Funding:** $100k for 6%  
-- **Deadline:** 20 November 2024  
+#### [Plug and Play Tech Center](https://lnkd.in/gRbQQK-s)
+- **Stage:** Seed, Series A
+- **Funding:** Varies
+- **Deadline:** Rolling basis
 
-#### [The Mint by Better Tomorrow Ventures](https://www.themint.vc/)
-- **Stage:** Pre-Seed, Seed  
-- **Funding:** $500k for 10% equity  
-- **Deadline:** Rolling basis  
+#### [Sequoia Capital](https://lnkd.in/gsczY8jR)
+- **Stage:** Seed, Early-Stage
+- **Funding:** $500K–$1M
+- **Deadline:** Rolling basis
 
-#### [Greylock Edge](https://greylock.com/edge/)
-- **Stage:** Pre-Idea, Pre-Seed, and Seed  
-- **Funding:** SAFE note + $500k+ in credits  
-- **Deadline:** Rolling basis  
+#### [Andreessen Horowitz (a16z)](https://a16z.com/seed/)
+- **Stage:** Seed, Early-Stage
+- **Funding:** $500K–$1M
+- **Deadline:** Rolling basis
+
+#### [Pear VC](https://lnkd.in/g3MPhVki)
+- **Stage:** Seed
+- **Funding:** $250K–$2M
+- **Deadline:** Rolling basis
+
+#### [Techstars](https://lnkd.in/gaipsAvp)
+- **Stage:** Pre-Seed, Seed
+- **Funding:** $20K + $100K for 8%
+- **Deadline:** Rolling basis
+
+#### [South Park Commons](https://lnkd.in/ge7NYfTj)
+- **Stage:** Seed, Early-Stage
+- **Funding:** $1M for ~7%
+- **Deadline:** Rolling basis
 
 
 ## Overview
