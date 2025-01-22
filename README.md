@@ -216,6 +216,65 @@ Whether you’re launching or scaling, this is everything I wish I had from day 
 33. [Cursor: write programs and code with AI](https://www.cursor.com/)  
 34. [Y Combinator tool to find co-founders](https://lnkd.in/dnFSvph7)
 
+# Y Combinator Resources for Founders
+
+Y Combinator (YC) backed startups are worth over **$100B+**, and here are 13 must-have resources to help early-stage founders learn from YC. These resources cover everything from the idea stage and getting into YC to launching and raising funds.
+
+## 🚀 Essential Resources for Founders
+
+1. **[YC's Essential Startup Advice](https://lnkd.in/dgx8mFjS)**  
+   Start with foundational strategies from YC itself.
+
+2. **[YC Application Guide from YC Alum](https://lnkd.in/dY8N6xpx)**  
+   Learn from those who've successfully gone through the process.
+
+3. **[Tool to Find a Co-Founder](https://lnkd.in/dnFSvph7)**  
+   Connect with like-minded individuals to build your team.
+
+4. **[How to Get Startup Ideas](https://lnkd.in/dQvUVRxB)**  
+   Discover how to brainstorm and refine winning concepts.
+
+5. **[How to Plan an MVP](https://lnkd.in/dnQNCnmA)**  
+   Prioritize features and test your market efficiently.
+
+6. **[How to Launch](https://lnkd.in/dNhCYqPa)**  
+   Guidance to make a strong and impactful market debut.
+
+7. **[How to Convince Investors](https://lnkd.in/dMi-gyZ5)**  
+   Insights on how to pitch effectively and secure funding.
+
+8. **[How to Get Your First Customers](https://lnkd.in/dpZRrpq7)**  
+   Practical advice for generating early traction.
+
+9. **[How to Build Your Seed Round Pitch Deck](https://lnkd.in/dgXup46w)**  
+   Craft compelling presentations to attract investors.
+
+10. **[How to Build a Tech Startup Without Technical Skills](https://lnkd.in/dsgcji76)**  
+    Guidance for non-technical founders to bring their ideas to life.
+
+11. **[Startup Business Models and Pricing](https://lnkd.in/d_HwVV27)**  
+    Strategies for creating sustainable revenue streams.
+
+12. **[Most Important Lifestyle Habits of Successful Founders](https://lnkd.in/dAfhieai)**  
+    Tips to cultivate the mindset and habits needed for success.
+
+13. **[The 18 Mistakes That Kill Startups by Paul Graham](https://lnkd.in/d3EAgGCD)**  
+    Avoid common pitfalls that lead to startup failure.
+
+## ⭐ Bonus Resource
+
+- **[AI English Coach](https://getfluently.app/)**  
+  Perfect for non-native English founders to master speaking skills like sales and pitch calls.
+
+---
+
+## 📝 Ready to Apply?
+
+YC is now accepting applications for the **Spring 2025 Batch**. Leverage these resources to prepare your application and maximize your chances of getting accepted.
+
+Don’t miss out on these valuable tools! Start your YC journey today. 🚀
+
+
 
 
 ---
